@@ -1,5 +1,6 @@
 # BookMyShow--Clone
 This project is a front-end clone of the popular movie ticket booking platform BookMyShow. The website is designed using HTML and CSS to recreate the look and feel of the original platform. It includes a modern UI with movie banners, recommended movies section, navigation bar, footer, and responsive design elements. 
+
 The main objective of this project is to improve front-end development skills by practicing webpage structuring, styling, layouts, and responsive web design.
 # Features
 -->Attractive movie booking website UI
